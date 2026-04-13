@@ -42,6 +42,6 @@ This Power BI dashboard provides insights into employee recruitment, performance
 - Production department has highest employee count
 
 ## 👤 Author
-Your Name  
+ABHIN C S 
 Aspiring Data Analyst
 
